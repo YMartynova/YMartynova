@@ -9,13 +9,12 @@
 </p>
 
 ## Test Artifacts 👩🏻‍💻
-- Тестовая документация
+- [Тестовая документация](https://github.com/YMartynova/docs)
 - [API Postman collection REST and SOAP](https://github.com/YMartynova/api)
 - [MySQL](https://github.com/YMartynova/database)
 - [MongoDB](https://github.com/YMartynova/mongodb)
 - [Mobile testing](https://github.com/YMartynova/mobile)
 - [Bash](https://github.com/YMartynova/bash/)
-- Git
 
 ## My stack 📌
 <p align="left">
