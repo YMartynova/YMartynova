@@ -11,7 +11,7 @@
 ## Test Artifacts 👩🏻‍💻
 - Тестовая документация
 - [API Postman collection REST and SOAP](https://github.com/YMartynova/api)
-- MySQL
+- [MySQL](https://github.com/YMartynova/database)
 - [MongoDB](https://github.com/YMartynova/mongodb)
 - [Mobile testing](https://github.com/YMartynova/mobile)
 - [Bash](https://github.com/YMartynova/bash/)
