@@ -10,7 +10,7 @@
 
 ## Test Artifacts 👩🏻‍💻
 - Тестовая документация
-- API Postman collection REST and SOAP
+- [API Postman collection REST and SOAP](https://github.com/YMartynova/api)
 - MySQL
 - MongoDB
 - [Mobile testing](https://github.com/YMartynova/mobile)
