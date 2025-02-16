@@ -14,7 +14,7 @@
 - MySQL
 - MongoDB
 - Mobile testing
-- [Bash](https://github.com/YMartynova/bash/blob/main/README.md)
+- [Bash](https://github.com/YMartynova/bash/)
 - Git
 
 ## My stack 📌
