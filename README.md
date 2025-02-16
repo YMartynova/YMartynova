@@ -13,7 +13,7 @@
 - API Postman collection REST and SOAP
 - MySQL
 - MongoDB
-- Mobile testing
+- [Mobile testing](https://github.com/YMartynova/mobile)
 - [Bash](https://github.com/YMartynova/bash/)
 - Git
 
